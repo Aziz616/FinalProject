@@ -1,0 +1,55 @@
+h1 {
+  margin: auto;
+  text-align: center;
+}
+.howisus {
+  background-color: #f8f9fa;
+  width: 100%;
+  height: 35vh;
+}
+h1 {
+  font-family: "Amiri", serif;
+  font-family: "Fredoka", sans-serif;
+}
+h2 {
+  font-family: "Amiri", serif;
+  font-family: "Fredoka", sans-serif;
+
+  justify-content: center;
+}
+.img-div {
+  margin: 0;
+  padding: 0;
+  height: 600px;
+}
+nav {
+  width: 100%;
+  height: 50px;
+}
+.nbthh {
+  text-align: center;
+  margin-top: 70px;
+}
+.pageend {
+  height: 35vh;
+
+  background-color: #eeeeee;
+}
+.et9l {
+  text-align: center;
+}
+.tmnee {
+  text-align: center;
+  margin-top: 60px;
+}
+.qq {
+  text-align: center;
+  margin-top: 40px;
+}
+.email {
+  text-align: center;
+}
+.bi-bi-headset {
+  align-items: center;
+  margin-top: 100px;
+}

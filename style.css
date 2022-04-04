@@ -1,0 +1,60 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: red;
+}
+
+.slider {
+  color: black;
+}
+.first {
+  height: 100vh;
+  background-color: #f8f9fa;
+  margin-top: 0px;
+  margin-top: 0px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.card {
+  margin-top: 50px;
+  margin-left: 120px;
+  width: 300px;
+  height: 450px;
+}
+.nav {
+  width: 100%;
+  height: 50px;
+}
+.card1 {
+  margin-left: 500px;
+  padding: 30px;
+  margin-top: 10px;
+}
+.carousel .slide {
+  margin-bottom: 0;
+  padding: 0;
+}
+.pageend {
+  height: 35vh;
+
+  background-color: #eeeeee;
+}
+.et9l {
+  text-align: center;
+}
+.tmnee {
+  text-align: center;
+  margin-top: 60px;
+}
+.qq {
+  text-align: center;
+  margin-top: 40px;
+}
+.email {
+  text-align: center;
+}
+.bi-bi-headset {
+  align-items: center;
+  margin-top: 100px;
+}
